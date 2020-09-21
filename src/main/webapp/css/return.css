@@ -1,0 +1,27 @@
+#body_div{
+    background-color: #DB6B0AFF;
+    margin: auto;
+    border: 1px solid #DB6B0AFF;
+    border-radius: 10px;
+    width: 40%;
+}
+
+body{
+    font-size: 30px;
+    text-align: center;
+    background-image: url(../images/back.jpg);
+    background-size: 100%;
+}
+
+.result{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 5px;
+}
+
+table.result td{
+    border: 1px solid black;
+    overflow: auto;
+}
